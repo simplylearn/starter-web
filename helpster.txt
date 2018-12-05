@@ -18,4 +18,10 @@ me too
 =======
 in new branch
 >>>>>>> simple-changes
+<<<<<<< HEAD
 title: ealwork
+=======
+
+
+in the branch of realwork
+>>>>>>> realwork
